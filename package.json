@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-graphs-and-large-language-models-bootcamp",
+  "version": "0.0.0",
+  "description": "This repo has been created to track thoughts, ideas, and other related work from the [O'Reilly Knowledge Graphs & Large Language Models Bootcamp](https://learning.oreilly.com/live-events/knowledge-graphs-large-language-models-bootcamp/0636920091408/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/knowledge-graphs-and-large-language-models-bootcamp.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/knowledge-graphs-and-large-language-models-bootcamp/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/knowledge-graphs-and-large-language-models-bootcamp#readme"
+}
